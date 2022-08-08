@@ -3,7 +3,7 @@ title: "Matrix Example"
 format: html
 editor: visual
 ---
-
+edit through git hub
 # Matrix Example
 
 Model population changes using the same example we did in lecture.
